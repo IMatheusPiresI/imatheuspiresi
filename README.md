@@ -21,4 +21,3 @@
  
 </div>
  
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=imatheuspiresi&repo=imatheuspiresi&theme=react)](https://github.com/imatheuspiresi/imatheuspiresi)
