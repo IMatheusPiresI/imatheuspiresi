@@ -1,17 +1,16 @@
 ## Olá, eu sou o Matheus Pires!
-Desenvolvedor Front-End Jr;
-Foco em React-JS;
-Conhecimentos em:
+Desenvolvedor Front-End Jr; <br>
+Foco em React-JS; <br>
+Conhecimentos em: <br>
 --React <br>
---React Hooks;
---Styled-Components;
---JavaScript;
---API-REST;
---HTML5;
---CSS3;
---SASS;
---Bootstrap;
---
+--React Hooks; <br>
+--Styled-Components; <br>
+--JavaScript; <br>
+--API-REST; <br>
+--HTML5; <br>
+--CSS3; <br>
+--SASS; <br>
+--Bootstrap; <br>
 
 <div align="center">
   <a href="https://github.com/imatheuspiresi">
