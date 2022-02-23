@@ -2,7 +2,7 @@
 Desenvolvedor Front-End Jr;
 Foco em React-JS;
 Conhecimentos em:
---React
+--React <br>
 --React Hooks;
 --Styled-Components;
 --JavaScript;
