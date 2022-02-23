@@ -1,6 +1,6 @@
 ## Olá, eu sou o Matheus Pires, Desenvolvedor Front-End Jr!;
 Foco em React-JS; <br>
-Conhecimentos em: <br>
+Conhecimentos: <br>
 --React <br>
 --React Hooks; <br>
 --Styled-Components; <br>
