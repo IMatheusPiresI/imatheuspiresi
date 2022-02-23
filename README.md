@@ -1,5 +1,5 @@
-## Olá, eu sou o Matheus Pires!
-Desenvolvedor Front-End Jr; <br>
+## Olá, eu sou o Matheus Pires, Desenvolvedor Front-End Jr!;
+<br>
 Foco em React-JS; <br>
 Conhecimentos em: <br>
 --React <br>
