@@ -4,6 +4,7 @@ Conhecimentos: <br>
 --React <br>
 --React Hooks; <br>
 --Styled-Components; <br>
+--TypeScript
 --JavaScript; <br>
 --API-REST; <br>
 --HTML5; <br>
