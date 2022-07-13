@@ -1,9 +1,13 @@
-## Olá, eu sou o Matheus Pires, Desenvolvedor Front-End Jr!;
+## Olá, eu sou o Matheus Pires, Desenvolvedor Front-End no BNE - Banco Nacional de Empregos!;
 Foco em React-JS; <br>
 Conhecimentos: <br>
+--NextJS; <br>
+--SEO; <br>
 --React <br>
 --React Hooks; <br>
 --Styled-Components; <br>
+--Tailwind; <br>
+--Sass; <br>
 --TypeScript
 --JavaScript; <br>
 --API-REST; <br>
