@@ -2,11 +2,11 @@
 Foco em React-JS; <br>
 Conhecimentos: <br>
 --NextJS; <br>
---SEO; <br>
 --React <br>
 --React Hooks; <br>
+--Context API; <br>
 --Styled-Components; <br>
---Tailwind; <br>
+--Tailwind CSS; <br>
 --Sass; <br>
 --TypeScript
 --JavaScript; <br>
