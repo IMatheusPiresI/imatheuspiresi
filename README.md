@@ -10,6 +10,9 @@
 
 - ReactJS
 - NextJS - SSG, SSR, SPA
+- React Native
+- Expo
+- Redux
 - TypeScript
 - Styled-Components
 - Tailwind CSS
