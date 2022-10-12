@@ -1,6 +1,6 @@
 ## Olá, sou o Matheus Pires de Sousa
 
-## Desenvolvedor Frontend - React | NextJS
+## Desenvolvedor Frontend - React Native | React | NextJS
 
 - 🌱 Aperfeiçoando React e Next
 - 💻 Criando projetos com as tecnologias mais solicitadas no mercado
