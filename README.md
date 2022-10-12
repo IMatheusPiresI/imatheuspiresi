@@ -18,7 +18,7 @@
 - Tailwind CSS
 - SASS
 - Firebase
-- Consumo de API-REST
+- API-REST
 - Git
 - Github
 
