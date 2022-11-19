@@ -2,25 +2,25 @@
 
 ## Desenvolvedor Frontend - React Native | React | NextJS
 
-- 🌱 Aperfeiçoando React e Next
-- 💻 Criando projetos com as tecnologias mais solicitadas no mercado
-- 📖 Ensinando e buscando conhecimento junto com a comunidade de React
+- 🌱 Constante evolução em React Native, React e Next;
+- 💻 Criando projetos com as tecnologias mais solicitadas no mercado;
+- 📖 Ensinando e buscando conhecimento junto com a comunidade de React;
 
 ## Tecnologias:
 
-- ReactJS
-- NextJS - SSG, SSR, SPA
-- React Native
-- Expo
-- Redux
-- TypeScript
-- Styled-Components
-- Tailwind CSS
-- SASS
-- Firebase
-- API-REST
-- Git
-- Github
+- React Native;
+- ReactJS;
+- NextJS - SSG, SSR, SPA;
+- Expo;
+- Redux;
+- TypeScript;
+- Styled-Components;
+- Tailwind CSS;
+- SASS;
+- Firebase;
+- API-REST;
+- Git;
+- Github;
 
 ## Conecte-se Comigo:
 <div> 
